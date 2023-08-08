@@ -1,4 +1,4 @@
-Hi there 👋 🍕 
+Hi there  
 
 <details>
   <summary>My langage</summary>
